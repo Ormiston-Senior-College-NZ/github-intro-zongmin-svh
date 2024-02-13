@@ -1,5 +1,5 @@
 # zongmin qian
-My name is zongmin qian and I'm almost 18 years old. 
+My name is zongmin qian and I'm 17 years old.
 
 ## My Whakapapa  
 I live with my family here in New Zealand, they are my mom, dad and my big brother. My family commes from China and I was born in Jiangsu, China. Besides English, we speak Chinese at home all the time. 
