@@ -12,16 +12,3 @@ When I'm not in school, I always watch Movies with my friends and sometimes go s
 This year, I would like to achieve merit or excellence endorsement at level 3. This helps to prepare for my university entrance. I prefer for an easy and relaxed life so I can have everything under control. 
 
 ---
-
-### Some Markdown tips  
-
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-**this is a bold**  
-_this is italic_
-
-Paragraphs - leave a space between paragraphs. 
-
-Adding two spaces to the end of a line also creates a line break...  
-like this
-
